@@ -161,6 +161,8 @@ This adapter would not have been possible without the great work of schmupu (htt
 ### 0.1.6 (20.02.2019)
 * (Stübi) First Version of pollen index adapter
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 The MIT License (MIT)
 
